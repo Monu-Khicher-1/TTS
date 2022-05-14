@@ -1,6 +1,6 @@
 # TTS (Text To Speech)
 Different Approaches for Project Text to Speech:
-* Approch1 : Joining phonemes to pronunciate a word. 
+* Approch1 : Joining phonemes to pronunciate a word. (for more Info goto /Approch1/presentation.ppt).
 * Approch2: Working on it(Using filters with a larger database for more natural sound).
 
 ## Approch1 
